@@ -20,3 +20,7 @@ Steps for accessing
 4) superuser Password: admin
 5) superuser Username: admin
      
+
+6 ) PPT is in the main branch and in the folder Powerpoint_presentation
+
+7) Screenshots of the App are available in the PowerPoint Presentation.
